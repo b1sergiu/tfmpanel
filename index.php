@@ -8,7 +8,7 @@
 <body>
 <center>
 <form name="loginform" action="userauthentication.php" method="post">
-<div class="top"><div class="open_div">Problemas ao logar? Clique aqui.</div><div class="hidden_div"><h6>Não consegue entrar? Certefique-se que obteu uma liçença, caso contrario não irá conseguir logar, certefique-se também de que digitou corretamente o username/password, caso não consiga logar, envie um email para: admin@tfmpanel.com . Obrigado! </div></div>
+<div class="top"><div class="open_div">Problems logging in? Click here.</div><div class="hidden_div"><h6>You can't enter? Make sure you have obtained a license, otherwise you will not be able to log in, make sure that you have entered the username/password correctly, if you can not log in, send an email to: admin@tfmpanel.com. Thank you! </div></div>
    
    <!-- Conteudo da Pagina -->
    <p>&nbsp;</p>
@@ -17,9 +17,9 @@
   <div class="transbox">
   <div class="background">
   <p>Username:
-    <input type="text" name="email" placeholder="Digite seu nome de usuário."><br>
-    <p>Password: <input type="password" name="senha" placeholder="Digite a sua senha." ><br>   
-    <p><input type="submit" value="Entrar" />
+    <input type="text" name="email" placeholder="Enter your email."><br>
+    <p>Password: <input type="password" name="senha" placeholder="Enter your password." ><br>   
+    <p><input type="submit" value="Login" />
   </p></p></p></p>
   </div> </div>
 </form>
